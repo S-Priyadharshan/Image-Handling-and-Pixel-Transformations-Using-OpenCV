@@ -213,8 +213,8 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
-    ![image](https://github.com/user-attachments/assets/b1520702-fcf1-46a8-88f5-3fa799379c25)
     ![image](https://github.com/user-attachments/assets/657a919c-3edb-4c57-a2f1-c026a0458dba)
+    ![image](https://github.com/user-attachments/assets/b1520702-fcf1-46a8-88f5-3fa799379c25)
 
 - **ii)** Adjust Image Brightness.
     ![image](https://github.com/user-attachments/assets/709efa81-14ab-44b1-a178-60c7b16415bf)
